@@ -27,6 +27,8 @@ Contains the list of good questions that group members have recommended to try a
 
 ## Matrix
 
+1. [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) (Contributed by: @caramelmelmel) (came out as a tiktok interview variant)
+
 ## Heap
 
 ## Tree
